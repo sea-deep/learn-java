@@ -9,5 +9,7 @@ public class Main {
         float twelfth = 72.8f;
         System.out.printf("Mera naam %s %s hai and mere 12th me %.1f%% number aaye the... \n and meri age is %d", firstName,lastName, twelfth, age);
 
+
+
     }
 }
