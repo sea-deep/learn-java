@@ -6,8 +6,8 @@ public class Main {
         String firstName = "Dipak";
         String lastName = "Agrahari";
         int age= 19;
-        float twelfth = 72.8;
-        System.out.printf("Mera naam %s %s hai and mere 12th me %f% number aaye the... \n and meri age is %d", firstName,lastName, twelfth, age);
+        float twelfth = 72.8f;
+        System.out.printf("Mera naam %s %s hai and mere 12th me %.1f%% number aaye the... \n and meri age is %d", firstName,lastName, twelfth, age);
 
     }
 }
